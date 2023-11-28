@@ -1,5 +1,5 @@
 # 麒麟分享————专注于分享文件和文字的极简跨平台软件
-
+![Image text](https://github.com/linzxcw/qilinshare/blob/main/fengmian.png)
 ## 两种安装方式：
 ### 一、在Releases页面下载exe文件运行，[点此处直达](https://github.com/linzxcw/qilinshare/releases)
 ### 二、下载源码运行
