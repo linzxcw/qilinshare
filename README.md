@@ -13,3 +13,7 @@
       `node index.js`\
 6、没有报错的话，打开本机ip地址的3003端口，例如：192.168.1.6:3003\
 7、如果打开网址有页面显示即安装成功。
+## 添加麒麟分享到右键菜单：
+1、用笔记本打开qilinshare-Add right-click menu.reg文件，编辑icon值，填qilinshare.exe的文件路径\
+2、双击reg文件，弹窗点击确定，即注册成功。\
+![Image text](https://github.com/linzxcw/qilinshare/blob/main/right-click.png)
